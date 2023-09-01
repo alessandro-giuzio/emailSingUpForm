@@ -47,9 +47,9 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](https://www.giuzio.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alessandro-giuzio)
-- Twitter - [@yourusername](https://www.twitter.com/giuzioale)
+- Website - [Giuzio.me)](https://www.giuzio.me)
+- Frontend Mentor - [Alessandro Giuzio](https://www.frontendmentor.io/profile/alessandro-giuzio)
+- Twitter - [@giuzioale](https://www.twitter.com/giuzioale)
 
 ## Acknowledgments
 
