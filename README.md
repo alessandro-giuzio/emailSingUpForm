@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alessandro-giuzio/emailSingUpForm)
-- Live Site URL: [Add live site URL here](https://resonant-hamster-1b0691.netlify.app/)
+- Solution URL: [https://github.com/alessandro-giuzio/emailSingUpForm](https://github.com/alessandro-giuzio/emailSingUpForm)
+- Live Site URL: [https://resonant-hamster-1b0691.netlify.app/](https://resonant-hamster-1b0691.netlify.app/)
 
 ## My process
 
